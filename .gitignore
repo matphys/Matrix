@@ -64,4 +64,3 @@ class Matrix:
 
     def get_size(self):
         return self.m, self.n
-
